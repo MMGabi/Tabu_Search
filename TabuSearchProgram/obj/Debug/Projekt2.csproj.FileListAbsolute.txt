@@ -1,0 +1,8 @@
+C:\Users\gabry\Desktop\Semestr 5\Inteligencja Obliczeniowa\Projekt2\Projekt2\bin\Debug\Projekt2.exe.config
+C:\Users\gabry\Desktop\Semestr 5\Inteligencja Obliczeniowa\Projekt2\Projekt2\bin\Debug\Projekt2.exe
+C:\Users\gabry\Desktop\Semestr 5\Inteligencja Obliczeniowa\Projekt2\Projekt2\bin\Debug\Projekt2.pdb
+C:\Users\gabry\Desktop\Semestr 5\Inteligencja Obliczeniowa\Projekt2\Projekt2\obj\Debug\Projekt2.csproj.AssemblyReference.cache
+C:\Users\gabry\Desktop\Semestr 5\Inteligencja Obliczeniowa\Projekt2\Projekt2\obj\Debug\Projekt2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabry\Desktop\Semestr 5\Inteligencja Obliczeniowa\Projekt2\Projekt2\obj\Debug\Projekt2.csproj.CoreCompileInputs.cache
+C:\Users\gabry\Desktop\Semestr 5\Inteligencja Obliczeniowa\Projekt2\Projekt2\obj\Debug\Projekt2.exe
+C:\Users\gabry\Desktop\Semestr 5\Inteligencja Obliczeniowa\Projekt2\Projekt2\obj\Debug\Projekt2.pdb
